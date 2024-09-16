@@ -1,0 +1,13 @@
+#LWP-Cookies-2.0
+Set-Cookie3: ss0-shiwikiSession=ag9frb63ut561e2njono2m8ae274lqv0; path="/"; domain="shi.wikipedia.org"; path_spec; secure; discard; HttpOnly=None; version=0
+Set-Cookie3: shiwikiSession=ag9frb63ut561e2njono2m8ae274lqv0; path="/"; domain="shi.wikipedia.org"; path_spec; secure; discard; HttpOnly=None; SameSite=None; version=0
+Set-Cookie3: loginnotify_prevlogins="2023-ltjk53-awafxb0jt90c56prefg6katqfp3qx74"; path="/"; domain="shi.wikipedia.org"; path_spec; secure; expires="2024-03-09 19:19:40Z"; HttpOnly=None; version=0
+Set-Cookie3: WMF-Last-Access="11-Sep-2023"; path="/"; domain="shi.wikipedia.org"; path_spec; secure; expires="2023-10-13 12:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: NetworkProbeLimit="0.001"; path="/"; domain="shi.wikipedia.org"; path_spec; secure; expires="2023-09-11 20:19:40Z"; version=0
+Set-Cookie3: shiwiki_BPsession=3hq3k74le8al2n99iba81bnn558ftqv7; path="/"; domain="shi.wikipedia.org"; path_spec; secure; discard; HttpOnly=None; version=0
+Set-Cookie3: cpPosIndex="1%401694459980%237ec919974a26c377901be3411bedc654"; path="/"; domain="shi.wikipedia.org"; path_spec; secure; expires="2023-09-11 19:19:50Z"; HttpOnly=None; version=0
+Set-Cookie3: UseDC=master; path="/"; domain="shi.wikipedia.org"; path_spec; secure; expires="2023-09-11 19:19:50Z"; HttpOnly=None; version=0
+Set-Cookie3: GeoIP="MA:::28.50:-10.00:v4"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; discard; version=0
+Set-Cookie3: WMF-Last-Access-Global="11-Sep-2023"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2023-10-13 12:00:00Z"; HttpOnly=None; version=0
+
+ion=0

@@ -1,0 +1,11 @@
+#LWP-Cookies-2.0
+Set-Cookie3: WMF-Last-Access="16-Dec-2023"; path="/"; domain="zgh.wikipedia.org"; path_spec; secure; expires="2024-01-17 12:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: ss0-zghwikiSession=0ddc9dpo5iqlm9fbmt334tajlj7h27tp; path="/"; domain="zgh.wikipedia.org"; path_spec; secure; discard; HttpOnly=None; version=0
+Set-Cookie3: zghwikiSession=0ddc9dpo5iqlm9fbmt334tajlj7h27tp; path="/"; domain="zgh.wikipedia.org"; path_spec; secure; discard; HttpOnly=None; SameSite=None; version=0
+Set-Cookie3: loginnotify_prevlogins="2023-160pm6e-t672rz1xzkif7fgmz0e1iix6sfip6dj"; path="/"; domain="zgh.wikipedia.org"; path_spec; secure; expires="2024-06-13 16:44:24Z"; HttpOnly=None; version=0
+Set-Cookie3: NetworkProbeLimit="0.001"; path="/"; domain="zgh.wikipedia.org"; path_spec; secure; expires="2023-12-16 17:44:24Z"; version=0
+Set-Cookie3: zghwiki_BPsession=cek4iaqp0mhai9r2err940i1qac0u0dg; path="/"; domain="zgh.wikipedia.org"; path_spec; secure; discard; HttpOnly=None; version=0
+Set-Cookie3: cpPosIndex="1%401702745063%230170b021792ce32010a66e18cee3230b"; path="/"; domain="zgh.wikipedia.org"; path_spec; secure; expires="2023-12-16 16:44:34Z"; HttpOnly=None; version=0
+Set-Cookie3: UseDC=master; path="/"; domain="zgh.wikipedia.org"; path_spec; secure; expires="2023-12-16 16:44:34Z"; HttpOnly=None; version=0
+Set-Cookie3: WMF-Last-Access-Global="16-Dec-2023"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2024-01-17 12:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: GeoIP="MA:06:Casablanca:33.58:-7.61:v4"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; discard; version=0
